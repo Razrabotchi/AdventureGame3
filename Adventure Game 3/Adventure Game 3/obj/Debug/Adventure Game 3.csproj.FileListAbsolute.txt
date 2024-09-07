@@ -1,0 +1,7 @@
+C:\Users\Всеволод\source\repos\Adventure Game 3\Adventure Game 3\bin\Debug\Adventure Game 3.exe.config
+C:\Users\Всеволод\source\repos\Adventure Game 3\Adventure Game 3\bin\Debug\Adventure Game 3.exe
+C:\Users\Всеволод\source\repos\Adventure Game 3\Adventure Game 3\bin\Debug\Adventure Game 3.pdb
+C:\Users\Всеволод\source\repos\Adventure Game 3\Adventure Game 3\obj\Debug\Adventure Game 3.csproj.AssemblyReference.cache
+C:\Users\Всеволод\source\repos\Adventure Game 3\Adventure Game 3\obj\Debug\Adventure Game 3.csproj.CoreCompileInputs.cache
+C:\Users\Всеволод\source\repos\Adventure Game 3\Adventure Game 3\obj\Debug\Adventure Game 3.exe
+C:\Users\Всеволод\source\repos\Adventure Game 3\Adventure Game 3\obj\Debug\Adventure Game 3.pdb
